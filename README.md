@@ -1,7 +1,7 @@
 # update_gfwlist
 update gfwlist for shadowlist (bash file)
 
-'''
+``` sh
 #!/bin/bash
 # update_gfwlist.sh
 # Author : VincentSit
@@ -75,4 +75,4 @@ source ~/Desktop/gfw_venv/venv/bin/activate
 
 check_module_installed
 update_gfwlist
-'''
+```
